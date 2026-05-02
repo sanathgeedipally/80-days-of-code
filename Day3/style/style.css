@@ -55,3 +55,10 @@ li {
   margin-bottom: 10px;
   font-size: 15px;
 }
+
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 14px;
+  color: #94a3b8;
+}
